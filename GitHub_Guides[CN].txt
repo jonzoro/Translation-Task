@@ -205,26 +205,49 @@ Tip: You can use emoji and drag and drop images and gifs onto comments and Pull 
 小技巧：你可以使用emoji表情和拖拽图片到评论区和pull请求中。
 
 Step 5. Merge your Pull Request
+第5步：合并你的pull请求
+
 In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
+在这最后一步中，我们将把你对readme-edit分支做出的改变合并到master分支中。
 
 Click the green Merge pull request button to merge the changes into master.
+点击绿色的按钮merge pull request将变化合并到master分支中。
+
 Click Confirm merge.
+点击 confirm merge
+
 Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
-merge delete
+在变化合并前可以通过点击Delete branch按钮来删除分支。
 
 Celebrate!
+恭喜你！！！
 
-By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub! :tada: :octocat: :zap:
+By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub! 
+通过完成这份教程，你已经学会在GitHub中创建项目和使用pull请求啦。
 
 Here’s what you accomplished in this tutorial:
+以下是你在本教程中学会的：
 
 Created an open source repository
-Started and managed a new branch
-Changed a file and committed those changes to GitHub
-Opened and merged a Pull Request
-Take a look at your GitHub profile and you’ll see your new contribution squares!
+创建开源的仓库。
 
-If you want to learn more about the power of pull requests, we recommend reading the GitHub Flow Guide. You might also visit GitHub Explore and get involved in an Open Source project :octocat:
+Started and managed a new branch
+管理新的分支。
+
+Changed a file and committed those changes to GitHub
+对文件做出改变并在GitHub中进行提交。
+
+Opened and merged a Pull Request
+打开并合并一个pull请求。
+
+Take a look at your GitHub profile and you’ll see your new contribution squares!
+快打开你的GitHub个人简介看看，是不是多了些贡献小方块？
+
+If you want to learn more about the power of pull requests, we recommend reading the GitHub Flow Guide. You might also visit GitHub Explore and get involved in an Open Source project.
+如果你想了解更多有关pull请求的作用，建议你去看看 GitHub Flow Guide。你可能也会顺便看看 GitHub Explore并且对开源项目产生兴趣。
 
 Tip: Check out our other Guides and YouTube Channel for more GitHub how-tos.
+小技巧：看看我们的其他教程和我们在youtube上的频道可以学到更多GitHub技巧。
+
 Last updated February, 2016
+最后更新于2016年2月。

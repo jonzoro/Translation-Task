@@ -157,29 +157,52 @@ These changes will be made to just the README file on your readme-edits branch, 
 这些改变只对readme-edit分支中的README文件有效，所以现在这个分支中所包含的内容将与master分支不同。
 
 Step 4. Open a Pull Request
-Nice edits! Now that you have changes in a branch off of master, you can open a pull request.
+第4步：打开一个pull请求
 
-Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+Nice edits! Now that you have changes in a branch off of master, you can open a pull request.
+很棒的改变！现在你已经改变了master的一个分支，你可以将其作为pull请求打开。
+
+Pull Requests are the heart of collaboration on GitHub.
+pull请求是在GitHub中协同工作的核心
+
+When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch.
+当你打开一个pull请求，你就是在将你的改变请求其他人的检查并将做出的改变加入到他们的分支中。
+
+Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+pull请求展示了两个分支之间不同的地方，做出的改变，包括增加的部分和减少的部分，都会以红色或绿色的标识展示出来。
 
 As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+一旦你做出了commit，你就能打开一个pull请求并开展讨论，这一切甚至可以在代码未完成的情况下进行。
 
 By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
+通过在你的pull请求消息中使用GitHub的@提醒系统，你可以特定的个人或团体询问他们的反馈意见无论他们身在何处。
 
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
+你甚至可以在你自己的仓库中打开一个pull请求并与你自己合并，这是一个在进入大项目中工作前非常好的学习GitHub流的方法。
 
 Open a Pull Request for changes to the README
+对README的改变做出pull请求的具体步骤
 
-Click on the image for a larger version
+Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
+点击pull request的标签，在pull request页中点击绿色的按钮new pull request。
 
-Step	Screenshot
-Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.	pr-tab
-Select the branch you made, readme-edits, to compare with master (the original).	branch
-Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.	diff
-When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.	create-pull
-Give your pull request a title and write a brief description of your changes.	pr-form
+Select the branch you made, readme-edits, to compare with master (the original).	
+选择你创建的readme-edit分支用来和master分支源（源分支）对比。
+
+Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.	
+在对比的页面中检查看看是不是你要做出的改变，确保是你想提交的改变。
+
+When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
+当确定是你要提交的内容后，点击那个大大的绿色的按钮Creat pull request。
+
+Give your pull request a title and write a brief description of your changes.	
+帮你的pull请求写一个标题并对你做出的改变写一段简短的描述。
+
 When you’re done with your message, click Create pull request!
+当你填完这些信息后，点击create pull request
 
 Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
+小技巧：你可以使用emoji表情和拖拽图片到评论区和pull请求中。
 
 Step 5. Merge your Pull Request
 In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.

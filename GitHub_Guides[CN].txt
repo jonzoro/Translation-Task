@@ -121,21 +121,40 @@ Now you have two branches, master and readme-edits. They look exactly the same, 
 
 
 Step 3. Make and commit changes
-Bravo! Now, you’re on the code view for your readme-edits branch, which is a copy of master. Let’s make some edits.
+第3步：做出改变并提交
 
-On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+Bravo! Now, you’re on the code view for your readme-edits branch, which is a copy of master. Let’s make some edits.、
+好极了！现在你已经可以在readme-edits分支上查看你的代码了，目前它还只是master的备份，让我们对它进行编辑吧。
+
+On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. 
+在GitHub中，对文件做出改变并保存的 行为称为commits。每个commits都伴随着commit message，这些信息是用来解释为什么做出了某些改变
+
+Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+commit messages 捕获了你做出改变的历史，所以其他贡献者可以明白你做了什么和为什么做出这些改变。
 
 Make and commit changes
+做出改变和提交的具体步骤：
 
 Click the README.md file.
+点击文件README.md
+
 Click the  pencil icon in the upper right corner of the file view to edit.
+点击右上角的铅笔图标进入文件的编辑模式
+
 In the editor, write a bit about yourself.
+在编辑器中，写一点关于你自己的项目介绍
+
 Write a commit message that describes your changes.
+在commit message 中写一点做出的改变的描述
+
 Click Commit changes button.
+点击commit chages按钮
+
 commit
+完成commit操作
 
 These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from master.
-
+这些改变只对readme-edit分支中的README文件有效，所以现在这个分支中所包含的内容将与master分支不同。
 
 Step 4. Open a Pull Request
 Nice edits! Now that you have changes in a branch off of master, you can open a pull request.

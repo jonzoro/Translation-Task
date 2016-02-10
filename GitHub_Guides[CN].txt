@@ -70,11 +70,18 @@ Click Create repository.
 
 
 Step 2. Create a Branch
+第2步：创建分支
+
 Branching is the way to work on different versions of a repository at one time.
+分支是同时在一个仓库的不同版本中工作的方法。
 
 By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
+默认情况下仓库是拥有一个叫做master的具有决定性的分支，我们在提交改变前会先在分支上编辑和实验。
 
-When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
+When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. 当你通过master来创建一个分支时，就相当于对那个时间点的master做了一个备份或者说一个快照。
+
+If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
+当有人在你在master工作时对其做出改变，你可以选择将其收入更新中。
 
 This diagram shows:
 
@@ -84,23 +91,33 @@ The journey that feature takes before it’s merged into master
 a branch
 
 Have you ever saved different versions of a file? Something like:
-
+你是否也曾经像下面这样保存过不同版本的文件？
 story.txt
 story-joe-edit.txt
 story-joe-edit-reviewed.txt
 Branches accomplish similar goals in GitHub repositories.
+分支就是在GitHub中实现了类似的功能。
 
 Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our master (production) branch. When a change is ready, they merge their branch into master.
+在GitHub中，我们的开发者，作家，设计师利用分支来保持漏洞修复和功能开发与master之间的独立，只有当做出的改变是可行的时候才将分支与master合并。
 
 To create a new branch
+创建新分支的具体步骤：
 
 Go to your new repository hello-world.
+打开你的仓库HelloWorld
+
 Click the drop down at the top of the file list that says branch: master.
+点击文件列表上方的下拉框，可以看到有个分支叫做master
+
 Type a branch name, readme-edits, into the new branch text box.
+在文本输入框中输入一个你想创建的分支的名字（这里使用readme-edits）
+
 Select the blue Create branch box or hit “Enter” on your keyboard.
-branch gif
+点击蓝色的Createbranch或者直接按回车键
 
 Now you have two branches, master and readme-edits. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
+现在你已经拥有两个分支了，master和readme-edits。它们两个看起来很像，但是这状态不会持续很久，因为接下来我们就将在新的分支中做出改变。
 
 
 Step 3. Make and commit changes

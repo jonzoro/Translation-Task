@@ -38,19 +38,35 @@ Tip: Open this guide in a separate browser window (or tab) so you can see it whi
 小技巧：将本教程在单独的窗口或标签页打开，这样你可以一边动手一边看教程。
 
 Step 1. Create a Repository
-A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
+第1步：创建仓库
+
+A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs.
+仓库通常是用来管理一个独立的项目，它可以包含文件夹和文件，图像，视频，表格和数据库等任何你需要用到的项目文件。
+
+We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
+推荐做法是在仓库中包含一个介绍你的项目的README文件。本站在你创建仓库的时候会协助你一同创建README文件，这将变得非常容易。
+同时也会提供证书文件等其他常用选项。
 
 Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
+这个HelloWorld仓库将会是存放你的想法、资源。甚至是分享和讨论事情的地方。
 
 To create a new repository
+创建仓库的具体方法：
 
 In the upper right corner, next to your username, click  and then click New repository.
-Name your repository hello-world.
-Write a short description.
-Select Initialize this repository with a README.
-new-repo-form
+在屏幕右上角靠近你的用户的地方有个+号，点击后再点击New repository
 
-Click Create repository. :tada:
+Name your repository hello-world.
+将仓库命名为Hello-World
+
+Write a short description.
+写上一段简短的描述
+
+Select Initialize this repository with a README.
+选择Initialize this repository with a README
+
+Click Create repository. 
+点击Create repository。
 
 
 Step 2. Create a Branch

@@ -1,23 +1,41 @@
 The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
-这个
+HellowWorld项目是一个历史悠久的传统编程项目。在你学习新的东西时，这是一个简单的练习。让我们开始学习GitHub吧！
+
 You’ll learn how to:
 你将学会以下几点：
 
 Create and use a repository
+创建并使用repository（仓库）
+
 Start and manage a new branch
+开启和管理新的branch（分支）
+
 Make changes to a file and push them to GitHub as commits
+对文件做出改变并将它们以commit形式提交到GitHub上
+
 Open and merge a pull request
+打开及合并pullrequest（pull请求）
 
 What is GitHub?
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+什么是GitHub？
 
-This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests. You’ll create your own Hello World repository and learn GitHub’s pull request workflow, a popular way to create and review code.
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+GitHub是一个拥有版本控制和协同工作功能的代码托管平台，它可以让你和其他人在任何地方一起为某个项目工作。
+
+This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests. 
+这个教程会教会你GitHub的几大要素，包括：repositories, branche, commits和 pull requests。
+
+You’ll create your own Hello World repository and learn GitHub’s pull request workflow, a popular way to create and review code.
+你将会创建属于你自己的HelloWorld仓库并且学习GitHub的pull请求工作流，一种用来创建和检查代码的流行方式。
 
 No coding necessary
+不必写代码
 
 To complete this tutorial, you need a GitHub.com account and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
+为了完成这个教程，你需要一个GitHub的帐号和连入互联网的网络，你不需要知道怎么写代码、也不需要使用命令行和安装客户端。（Git的版本控制软件已经有了！）
 
 Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
+小技巧：将本教程在单独的窗口或标签页打开，这样你可以一边动手一边看教程。
 
 Step 1. Create a Repository
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
